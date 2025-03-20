@@ -1,7 +1,7 @@
 ### Hi there 👋
-- 🔭 I’m currently working on Web Application Development, R Studio.
-- 🌱 I’m currently learning Java, Data Science.
-- 👯 I’m looking to collaborate on Java & AI projects.
+- 🔭 I’m currently working on DevOps, SRE, and Cloud.
+- 🌱 I’m currently learning Data Science, MLOPS, and Gen AI.
+- 👯 I’m looking to collaborate on DevOPs & AI projects.
 - 🤔 I’m looking for help with coding, ML & AI.
 <!--
 **ArigelaRajesh/ArigelaRajesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
